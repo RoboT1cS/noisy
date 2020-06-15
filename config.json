@@ -14,7 +14,11 @@
         "https://youtube.com",
         "https://github.com",
         "https://medium.com",
-        "https://thepiratebay.org"
+        "https://thepiratebay.org",
+        "https://ya.ru",
+        "https://mail.ru",
+        "https://lenta.ru",
+        "https://vk.com"
     ],
     "blacklisted_urls": [
         "https://t.co",
